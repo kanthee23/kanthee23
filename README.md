@@ -4,9 +4,11 @@
   
 I'm a student Master's in Cyber Security 🎓 Postgraduate degree in Data Science from 🏛 European Nation Campus. 
 
-<h2>Talking about Personal Stuffs:</h2> 
-<li>
-👨🏻‍💻   Most of my projects are available on GitHub.
-🧠   I'm interested in artificial intelligence and I like to study it
-💻   I love exploring new tech stack and building cool stuffs.  
-</li>
+<h2>😍 Favorite Programming Languages </h2>
+<ul>
+  <li>Python</li>
+  <li>PHP</li>
+  <li>SQL</li>
+  <li>HTML</li>
+  <li>Java Script</li>
+</ul>
