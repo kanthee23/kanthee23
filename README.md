@@ -4,7 +4,7 @@
   
 I'm a Master's in Cyber Security 🎓 Postgraduate degree in Data Science 🎓 Civil Engineer 
 
-<h2>😍 Favorite Programming Languages </h2>
+<h2>😍 Core Skills </h2>
 
 <ul>
   <li>Operating Systems: Windows Server, Windows 10/11, Linux (Ubuntu)
